@@ -1,4 +1,4 @@
-![image](https://github.com/dharshini-29/places-around-me/assets/147474632/6b4ca142-1eb6-4179-b2e9-1dbbb9235c2b)# Places Around Me
+# Places Around Me
 # Name:dharshini K
 # Ref:23010696
 # Aim:
