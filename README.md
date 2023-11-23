@@ -106,7 +106,7 @@ Execute the program and see the result
         <img src="https://media.easemytrip.com/media/Blog/India/637049345840687886/637049345840687886hFn3jB.jpg" alt="beach">
     </head>
 </html>
-```
+```  
 
 # Air:
 ```
@@ -121,8 +121,17 @@ Execute the program and see the result
 </html>
 ```
 # Output:
+![WhatsApp Image 2023-11-23 at 16 49 30_fd54a93d](https://github.com/dharshini-29/places-around-me/assets/147474632/6196fb6d-003f-4ca3-a7ff-7993d58f3c52)
 
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/9012b546-d05d-465d-9aec-6d609b3ab619)
 
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/5bf8b063-b2c4-4f20-896d-c78fa729ccbc)
+
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/d5cc607b-f973-4ce8-8055-dc5785c6e0cb)
+
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/8c6526a7-c865-4307-8775-b210b464215e)
+
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/37f3524b-5026-45c8-9af0-38be388c381f)
 
 # Result:
 Image-maps has been created successfully
