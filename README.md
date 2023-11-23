@@ -122,7 +122,8 @@ Execute the program and see the result
 ```
 # Output:
 ![Alt text](<WhatsApp Image 2023-11-23 at 15.41.42_59204f2e.jpg>)
-https://static.toiimg.com/thumb/48325885/Millennium-Park-Kolkata.jpg?width=1200&height=900
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/305eee81-33cd-44a8-a9bb-964bc17aa8d8)
+
 
 # Result:
 Image-maps has been created successfully
