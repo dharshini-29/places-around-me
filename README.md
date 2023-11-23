@@ -121,13 +121,7 @@ Execute the program and see the result
 </html>
 ```
 # Output:
-![Alt text](<WhatsApp Image 2023-11-23 at 15.41.42_59204f2e.jpg>)
 
-![image](https://github.com/dharshini-29/places-around-me/assets/147474632/78ff0898-5784-4857-bb00-5e9293eb2d7a)
-
-![image](https://github.com/dharshini-29/places-around-me/assets/147474632/52c5947b-d9c1-4fe3-a286-847f66dc409f)
-
-![image](https://github.com/dharshini-29/places-around-me/assets/147474632/31ae6127-cd01-4980-8b43-08d38069095b)
 
 
 # Result:
