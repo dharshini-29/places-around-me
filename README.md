@@ -122,10 +122,7 @@ Execute the program and see the result
 ```
 # Output:
 ![Alt text](<WhatsApp Image 2023-11-23 at 15.41.42_59204f2e.jpg>)
-https://static.toiimg.com/thumb/48325885.cms?resizemode=75&width=1200&height=900
-https://upload.wikimedia.org/wikipedia/commons/1/18/Annanagar_Tower.jpg
-https://www.ourcities.in/wp-content/uploads/2021/07/Phoenix-Marketcity-Velachery-Chennai-1.jpg
-https://media.easemytrip.com/media/Blog/India/637049345840687886/637049345840687886hFn3jB.jpg
-https://upload.wikimedia.org/wikipedia/commons/6/6f/Chennai_airport_view_4.jpeg
+https://static.toiimg.com/thumb/48325885/Millennium-Park-Kolkata.jpg?width=1200&height=900
+
 # Result:
 Image-maps has been created successfully
