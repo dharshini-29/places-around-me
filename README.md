@@ -1,4 +1,4 @@
-# Places Around Me
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/6b4ca142-1eb6-4179-b2e9-1dbbb9235c2b)# Places Around Me
 # Name:dharshini K
 # Ref:23010696
 # Aim:
@@ -122,7 +122,16 @@ Execute the program and see the result
 ```
 # Output:
 ![Alt text](<WhatsApp Image 2023-11-23 at 15.41.42_59204f2e.jpg>)
+
 ![image](https://github.com/dharshini-29/places-around-me/assets/147474632/305eee81-33cd-44a8-a9bb-964bc17aa8d8)
+
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/7f38dd1f-76e5-494e-9680-656853c49b27)
+
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/78ff0898-5784-4857-bb00-5e9293eb2d7a)
+
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/52c5947b-d9c1-4fe3-a286-847f66dc409f)
+
+![image](https://github.com/dharshini-29/places-around-me/assets/147474632/31ae6127-cd01-4980-8b43-08d38069095b)
 
 
 # Result:
